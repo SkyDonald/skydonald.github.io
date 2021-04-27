@@ -1,0 +1,16 @@
+{
+  "name": "SkyDonald",
+  "short_name": "SkyDonald",
+  "background_color": "#fff",
+  "theme_color": "#157878",
+  "description": "SkyDonald's website",
+  "icons": [
+    {
+      "src": "SkyDonald.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}
